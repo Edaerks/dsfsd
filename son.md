@@ -57,8 +57,8 @@ $$T_j \ge T_i + sd_i + dist_{ij} - M_{ij} \cdot (1 - \sum_{k \in K} x_{kij}), \q
 
 **Zaman Pencereleri (Hybrid):**
 
-- **Exact:** $tw\_s_i \le T_i \le tw\_e_i$
-- **Heuristic:** $tw\_s_i \le T_i \le tw\_e_i + S_i$
+- **Exact:** $$tw\_s_i \le T_i \le tw\_e_i$$
+- **Heuristic:** $$tw\_s_i \le T_i \le tw\_e_i + S_i$$
 
 **Alt Tur Engelleme (Sıralama - Sadece Exact):**
 
